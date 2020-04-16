@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: ab545dafd7cacf34eaf4637c2e404a18
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: NorthWall_Walls
+    100004: Walls_Collums_EastNorhEastColumn
+    100006: Walls_Collums_EastSouthEastColumn
+    100008: Walls_Collums_NorthNorthWestColumn
+    100010: Walls_Collums_SouthSouthEastColumn
+    100012: Walls_Collums_SouthSouthWestColumn
+    100014: Walls_Collums_WestNorthWestColumn
+    100016: Walls_Collums_WestSouthWestColumn
+    100018: Walls_EastWall
+    100020: Walls_NorhEastWall
+    100022: Walls_NorthNorhEastColumn_Collums
+    100024: Walls_NorthWestWall
+    100026: Walls_SouthEastWall
+    100028: Walls_SouthWestWall
+    100030: Walls_WestWall
+    400000: //RootNode
+    400002: NorthWall_Walls
+    400004: Walls_Collums_EastNorhEastColumn
+    400006: Walls_Collums_EastSouthEastColumn
+    400008: Walls_Collums_NorthNorthWestColumn
+    400010: Walls_Collums_SouthSouthEastColumn
+    400012: Walls_Collums_SouthSouthWestColumn
+    400014: Walls_Collums_WestNorthWestColumn
+    400016: Walls_Collums_WestSouthWestColumn
+    400018: Walls_EastWall
+    400020: Walls_NorhEastWall
+    400022: Walls_NorthNorhEastColumn_Collums
+    400024: Walls_NorthWestWall
+    400026: Walls_SouthEastWall
+    400028: Walls_SouthWestWall
+    400030: Walls_WestWall
+    2100000: NorthWall_WallsMat
+    2100002: Walls_Collums_EastNorhEastColumnMat
+    2100004: Walls_Collums_EastSouthEastColumnMat
+    2100006: Walls_Collums_NorthNorthWestColumnMat
+    2100008: Walls_Collums_SouthSouthEastColumnMat
+    2100010: Walls_Collums_SouthSouthWestColumnMat
+    2100012: Walls_Collums_WestNorthWestColumnMat
+    2100014: Walls_Collums_WestSouthWestColumnMat
+    2100016: Walls_EastWallMat
+    2100018: Walls_NorhEastWallMat
+    2100020: Walls_NorthNorhEastColumn_CollumsMat
+    2100022: Walls_NorthWestWallMat
+    2100024: Walls_SouthEastWallMat
+    2100026: Walls_SouthWestWallMat
+    2100028: Walls_WestWallMat
+    2300000: NorthWall_Walls
+    2300002: Walls_Collums_EastNorhEastColumn
+    2300004: Walls_Collums_EastSouthEastColumn
+    2300006: Walls_Collums_NorthNorthWestColumn
+    2300008: Walls_Collums_SouthSouthEastColumn
+    2300010: Walls_Collums_SouthSouthWestColumn
+    2300012: Walls_Collums_WestNorthWestColumn
+    2300014: Walls_Collums_WestSouthWestColumn
+    2300016: Walls_EastWall
+    2300018: Walls_NorhEastWall
+    2300020: Walls_NorthNorhEastColumn_Collums
+    2300022: Walls_NorthWestWall
+    2300024: Walls_SouthEastWall
+    2300026: Walls_SouthWestWall
+    2300028: Walls_WestWall
+    3300000: NorthWall_Walls
+    3300002: Walls_Collums_EastNorhEastColumn
+    3300004: Walls_Collums_EastSouthEastColumn
+    3300006: Walls_Collums_NorthNorthWestColumn
+    3300008: Walls_Collums_SouthSouthEastColumn
+    3300010: Walls_Collums_SouthSouthWestColumn
+    3300012: Walls_Collums_WestNorthWestColumn
+    3300014: Walls_Collums_WestSouthWestColumn
+    3300016: Walls_EastWall
+    3300018: Walls_NorhEastWall
+    3300020: Walls_NorthNorhEastColumn_Collums
+    3300022: Walls_NorthWestWall
+    3300024: Walls_SouthEastWall
+    3300026: Walls_SouthWestWall
+    3300028: Walls_WestWall
+    4300000: NorthWall_Walls
+    4300002: Walls_Collums_EastNorhEastColumn
+    4300004: Walls_Collums_EastSouthEastColumn
+    4300006: Walls_Collums_NorthNorthWestColumn
+    4300008: Walls_Collums_SouthSouthEastColumn
+    4300010: Walls_Collums_SouthSouthWestColumn
+    4300012: Walls_Collums_WestNorthWestColumn
+    4300014: Walls_Collums_WestSouthWestColumn
+    4300016: Walls_EastWall
+    4300018: Walls_NorhEastWall
+    4300020: Walls_NorthNorhEastColumn_Collums
+    4300022: Walls_NorthWestWall
+    4300024: Walls_SouthEastWall
+    4300026: Walls_SouthWestWall
+    4300028: Walls_WestWall
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
